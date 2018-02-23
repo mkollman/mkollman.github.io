@@ -6,13 +6,13 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Matt Kollman
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: mskollma@ncsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/kollman
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
