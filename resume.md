@@ -9,16 +9,16 @@ Graduate Research Assistant
 
 `2006 - 2011`
 __North Carolina State University__
-Degree Awarded
+B.S. Chemical Engineering; B.S. Paper Science & Engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded
+`2011 - 2013`
+__Georgia Institute of Technology__
+M.S. Chemical Engineering
 
 ## Awards
 
-`2012`
-Name of Award, Organization
+`2016`
+Graduate Fellowship Award, NC State University
 
 ## Publications
 
@@ -50,13 +50,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer
+__Graduate Research Assistant__, NC State University, Department of Forest Biomaterials
 
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer
+`2013 - 2016`
+__Process Engineer__, Robins & Morton
 
 - Task
 - Task
